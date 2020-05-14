@@ -1,4 +1,4 @@
-module github.com/AlpacaLabs/kontext
+module github.com/AlpacaLabs/go-kontext
 
 go 1.14
 
