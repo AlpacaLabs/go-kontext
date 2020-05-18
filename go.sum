@@ -1,4 +1,6 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
+github.com/AlpacaLabs/protorepo-event-go v0.0.0-20200517012157-817122666c68 h1:YGHw7PW+cA8Ovm1mNLbzFqtKQRrpZILKWzx5Gw9S/wE=
+github.com/AlpacaLabs/protorepo-event-go v0.0.0-20200517012157-817122666c68/go.mod h1:pfwk4ZcgrqgP4FbUtvI771kwyfTYhhGiSix1qktvw8A=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/DataDog/sketches-go v0.0.0-20190923095040-43f19ad77ff7 h1:qELHH0AWCvf98Yf+CNIJx9vOZOfHFDDzgDRYsnNk/vs=
 github.com/DataDog/sketches-go v0.0.0-20190923095040-43f19ad77ff7/go.mod h1:Q5DbzQ+3AkgGwymQO7aZFNP7ns2lZKGtvRBzRXfdi60=
